@@ -22,3 +22,14 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+/**
+ * TO Add files
+ * git add .
+ * 
+ * To Commit
+ * git commit -m "Mesage"
+ * 
+ * To Push Files
+ * git push -u origin branch
+ */
